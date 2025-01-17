@@ -14,8 +14,14 @@ The analysis is based on the following CSV files:
 - fact_aggregated_bookings: Aggregated booking data by room and hotel.
 - fact_bookings: Detailed customer booking transactions.
 
+---
+
 **Key Insights**
--Revenue Analysis: Generated vs. realized revenue by room and hotel categories.
--Booking Trends: Patterns over weeks, months, and platforms.
--Occupancy Rates: By city and room type.
--Customer Feedback: Ratings and booking platform trends.
+- Revenue Analysis: Generated vs. realized revenue by room and hotel categories.
+- Booking Trends: Patterns over weeks, months, and platforms.
+- Occupancy Rates: By city and room type.
+- Customer Feedback: Ratings and booking platform trends.
+
+---
+## Power BI - Dashboard
+![Dashboard Screenshot](Hospitality-dashboard_screenshot.png)
