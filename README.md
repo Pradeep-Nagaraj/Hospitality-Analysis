@@ -25,3 +25,8 @@ The analysis is based on the following CSV files:
 ---
 ## Power BI - Dashboard
 ![Dashboard Screenshot](Hospitality-dashboard_screenshot.png)
+
+---
+**Reference**
+- https://codebasics.io/resources/end-to-end-data-analyst-project
+
